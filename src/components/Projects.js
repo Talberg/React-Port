@@ -14,7 +14,7 @@ function Projects(){
           <CardTitle>Weed Diary</CardTitle>
           
           <CardText>Keep Track of your weed experiences </CardText>
-          <Button href='https://talberg.github.io/Project-1/'>Button</Button>
+          <Button href='https://shielded-plateau-82907.herokuapp.com/'>Button</Button>
         </CardBody>
       </Card>
     

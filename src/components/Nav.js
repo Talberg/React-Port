@@ -11,7 +11,7 @@ function Nav (){
     // eslint-disable-next-line no-unused-expressions
     return(
     <>
-  <nav style={styles.navbar} className="nav-extended  bg-primary">
+  <nav style={styles.navbar} className="nav-extended center  bg-primary">
     <div className="nav-wrapper  grey darken-4"><div className="container">
       <div style={styles.navbar} className="row"><div className="col s12"><a href="/" className="brand-logo">Alexander Talberg</a></div></div>
       <br/>
